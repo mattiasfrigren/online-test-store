@@ -1,0 +1,38 @@
+[
+{
+    "title": "Snipcart Logo Sticker",
+    "id": "sticker_logo",
+    "description": "Show off your Snipcart support with a logo sticker!",
+    "price": "2.00"
+  },
+  {
+    "title": "Cool bike",
+    "id": "cool_bike",
+    "description": "Show off your cool bike to your friends and enemies",
+    "price": "200.00"
+  },
+  {
+    "title": "Cool Snus",
+    "id": "cool_snus",
+    "description": "Snus like this haas never been made! buy it before it runs out",
+    "price": "5.00"
+  },
+  {
+    "title": "Amazing Beer",
+    "id": "amazing_beer",
+    "description": "Beer that will make your friends say 'whow that is Amazing' ",
+    "price": "3.00"
+  },
+  {
+    "title": "Fancy Pants",
+    "id": "fance_pants",
+    "description": "These pants are so fancy you dont need to wear anything else",
+    "price": "150.00"
+  },
+  {
+    "title": "Trash",
+    "id": "trash_celeb",
+    "description": "Trash that we dug up from a famous person! buy it now and smell it!",
+    "price": "199.00"
+  }
+]
